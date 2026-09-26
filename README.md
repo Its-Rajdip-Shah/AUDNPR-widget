@@ -19,7 +19,7 @@ The rate fetcher tries one provider first and uses a second provider as a fallba
 
 ## Tech
 
-`Swift` µ `WidgetKit` µ `URLSession`
+`Swift` · `WidgetKit` · `URLSession`
 
 ## Why
 
